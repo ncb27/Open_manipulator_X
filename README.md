@@ -34,5 +34,5 @@ Finalmente, se incluyen las instrucciones para parar o continuar el movimiento d
 
 Una vez terminado el código, es necesario cargar el programa a la tarjeta y comenzar a seguir las instrucciones que se nos indican en el monitor serial.
 # resultado
-en la siguiente imagen se muestra como acomodamos los bombones para que fueran paletizados en la charola y para colocar la tapadera.
+en la siguiente video se muestra como acomodamos los bombones para que fueran paletizados en la charola y para colocar la tapadera y el funcionamiento de este programa.
 
